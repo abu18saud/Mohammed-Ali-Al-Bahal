@@ -46,6 +46,13 @@ body {
   content: "";
 }
 
+#email{
+  color: #FFFF !important;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+}
+
 a {
   color: #FF9000;
   -webkit-transition: 0.5s;
@@ -203,7 +210,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background-position: center center;
   background-repeat: no-repeat;
   position: relative;
-  height: 200px;
+  height: 300px;
   width: 200px;
   margin: 0 auto;
   margin-bottom: 30px;
