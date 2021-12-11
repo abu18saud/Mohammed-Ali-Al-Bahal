@@ -46,7 +46,7 @@ body {
   content: "";
 }
 
-#email{
+.contactLinks{
   color: #FFFF !important;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
